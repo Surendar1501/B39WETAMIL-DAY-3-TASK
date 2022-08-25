@@ -1,0 +1,44 @@
+const resume = {
+    name: "surendar",
+    age: 22,
+    place: "chennnai",
+    college: [
+        {
+        name: "sri Ram Engineering college",
+        branch: "chemical engineer",
+        markSecured : "75%",
+        }
+    ],
+    schooling: [
+        {
+        name: "RPC matric hr sec school",
+        std: "12th",
+        markSecured: "82%"
+        },
+        {name: "njvhs matri school",
+         std: "10th",
+         markSecured: "92%"
+        }
+    ],
+    prizes: "district firsty in badminton",
+    industrialVisit: [
+        "manali petro chemical",
+        "kingfishers"
+    ],
+    project: "design of heat exchanger in nuclear power plant",
+    skills: [
+        "ms excel",
+        "ms office",
+        "honeywell unism"
+    ],
+    strength: [
+        "good communication",
+        "team work",
+        "lead to face anything"
+    ],
+    weakness: "easily believe on people",
+    hobbies: [
+        "playing cricket",
+        "badminton"
+    ],
+}
