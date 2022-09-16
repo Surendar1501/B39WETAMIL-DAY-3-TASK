@@ -14,8 +14,8 @@ for(let keys in animals){
 
 // using for of in array
 
-for (let keys for animals){
-    console,log(keys);
+for (let keys of animals){
+    console.log(keys);
 }
 
 
